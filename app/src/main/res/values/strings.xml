@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">苏醒音乐</string>
+    <string name="title_find">发现</string>
+    <string name="title_podcast">播客</string>
+    <string name="title_my">我的</string>
+    <string name="title_follow">关注</string>
+    <string name="title_cloudgroup">云村</string>
+
+    <string name="entry_login_button_text">手机号登录</string>
+    <string name="login_activity_tip">（请使用自己的云音乐账号进行登录）</string>
+    <string name="login_activity_button_text">下一步</string>
+    <string name="title_local_music">本地音乐</string>
+    <string name="menu_item_download_manage">下载管理</string>
+    <string name="menu_item_download_scan">扫描本地音乐</string>
+    <string name="menu_item_download_sorting">选择排序方式</string>
+    <string name="set_password_tip">请设置登录密码，8-20位字符，至少包含字母/数字/符号2种组合</string>
+    <string name="network_exception_tip">网络状态异常，请检查网络</string>
+</resources>

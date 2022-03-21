@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_find"
+        android:icon="@mipmap/icon_find"
+        android:title="@string/title_find" />
+
+    <item
+        android:id="@+id/navigation_podcast"
+        android:icon="@mipmap/icon_podcast"
+        android:title="@string/title_podcast" />
+
+    <item
+        android:id="@+id/navigation_my"
+        android:icon="@mipmap/icon_my"
+        android:title="@string/title_my" />
+
+    <item
+        android:id="@+id/navigation_follow"
+        android:icon="@mipmap/icon_follow"
+        android:title="@string/title_follow" />
+
+    <item
+        android:id="@+id/navigation_cloudgroup"
+        android:icon="@mipmap/icon_cloudgroup"
+        android:title="@string/title_cloudgroup" />
+
+</menu>
